@@ -8,7 +8,7 @@ Aprendi também uma maneira de deixar o site responsivo utilizando @media.
 
 Foi muito proveitoso!
 
-![image-20201002155717184](C:\Users\Ricardo\AppData\Roaming\Typora\typora-user-images\image-20201002155717184.png)
+![print tela](https://github.com/ricardoltt/dio_interfaceInstagram/blob/master/img/print-project.png)
 
 ### :computer: Tecnologias 
 
